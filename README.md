@@ -17,7 +17,7 @@ Passionné par la résolution de problèmes et la création d'applications perfo
 
 ---
 
-### 🛠️ Mon Stack Technique
+### 🛠️ Ma Stack Technique
 
 | Domaine | Technologies |
 | :--- | :--- |
